@@ -1,0 +1,11 @@
+{
+  "name": "calculadora_imc",
+  "version": "1.0.0",
+  "description": "Calculadora de imc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
