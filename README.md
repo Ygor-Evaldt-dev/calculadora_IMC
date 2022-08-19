@@ -1,7 +1,7 @@
 # calculadora_IMC
 Calculadora de índice de massa corporal
 
-##Objetivo:
+## Objetivo:
 - Fornecer informções sobre o indice de massa corporal da pessoa que utilizar
 
 ## Acesso:
